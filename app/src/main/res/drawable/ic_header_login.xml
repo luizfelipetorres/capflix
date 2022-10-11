@@ -5,7 +5,7 @@
     android:viewportHeight="123">
   <path
       android:pathData="M15.58,92.83C10.92,86.68 7.55,79.66 5.69,72.17C3.82,64.68 3.5,56.89 4.74,49.28C5.98,41.66 8.76,34.38 12.9,27.87C17.05,21.37 22.47,15.77 28.85,11.43C41.78,2.24 57.74,-1.62 73.44,0.63C89.14,2.87 103.38,11.07 113.21,23.51C132.8,49.27 124.58,82.65 97.73,101.74C70.87,120.83 35.17,118.59 15.58,92.84"
-      android:fillColor="#12ABDB"
+      android:fillColor="@color/button_save"
       android:fillType="evenOdd"/>
   <group>
     <clip-path
@@ -17,7 +17,7 @@
   </group>
   <path
       android:strokeWidth="1"
-      android:pathData="M27.99,87.89V32.07H97.4V87.89H27.99Z"
+      android:pathData="M27.99,32.07H97.4V87.89H27.99V32.07Z"
       android:fillColor="#ffffff"
       android:strokeColor="#000000"/>
   <path

@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CapFlix</string>
+    <string name="hint_email">Email</string>
+    <string name="sign_in">Sign in</string>
+    <string name="hint_password">Password</string>
+    <string name="text_view_sign_up">Sign up</string>
+    <string name="check_box_logged_in">Keep me Logged in</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="save">Salvar</string>
+    <string name="not_a_member">Not a member?</string>
 </resources>

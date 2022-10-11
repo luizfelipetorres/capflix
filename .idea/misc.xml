@@ -3,6 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/lfarias/AndroidStudioProjects/CapFlix2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1315" />
+        <entry key="..\:/Users/lfarias/AndroidStudioProjects/CapFlix2/app/src/main/res/drawable/button_rectangle.xml" value="0.1315" />
+        <entry key="..\:/Users/lfarias/AndroidStudioProjects/CapFlix2/app/src/main/res/drawable/container_rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/lfarias/AndroidStudioProjects/CapFlix2/app/src/main/res/drawable/ic_baseline_check_box_outline_blank_24.xml" value="0.1315" />
+        <entry key="..\:/Users/lfarias/AndroidStudioProjects/CapFlix2/app/src/main/res/drawable/ic_header_login.xml" value="0.1315" />
+        <entry key="..\:/Users/lfarias/AndroidStudioProjects/CapFlix2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1315" />
+        <entry key="..\:/Users/lfarias/AndroidStudioProjects/CapFlix2/app/src/main/res/drawable/ic_password_eye.xml" value="0.1315" />
+        <entry key="..\:/Users/lfarias/AndroidStudioProjects/CapFlix2/app/src/main/res/drawable/input_rectangle.xml" value="0.1315" />
+        <entry key="..\:/Users/lfarias/AndroidStudioProjects/CapFlix2/app/src/main/res/drawable/rectangle.xml" value="0.1315" />
         <entry key="..\:/Users/lfarias/AndroidStudioProjects/CapFlix2/app/src/main/res/layout/activity_main.xml" value="0.184375" />
       </map>
     </option>

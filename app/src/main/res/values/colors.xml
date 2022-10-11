@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="translucid_login">#ccffffff</color>
+    <color name="blue_sign_in">#0070AD</color>
+    <color name="edit_text_login_blue">#12ABDB</color>
+    <color name="button_save">#12ABDB</color>
 </resources>
