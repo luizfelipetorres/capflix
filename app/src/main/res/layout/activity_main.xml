@@ -63,6 +63,7 @@
             app:layout_constraintTop_toBottomOf="@id/text_view_sign_in" />
 
         <EditText
+
             android:autofillHints="password"
             android:id="@+id/edit_text_password"
             android:layout_width="0dp"
@@ -79,6 +80,8 @@
             app:layout_constraintTop_toBottomOf="@id/edit_text_email" />
 
         <ImageButton
+
+            android:id="@+id/icon_show_password"
             android:importantForAccessibility="no"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -93,6 +96,8 @@
             android:id="@+id/checkbox_keep_logged"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:buttonTint="@color/blue_sign_in"
+            android:checked="true"
             android:text="@string/check_box_logged_in"
             android:textColor="@color/blue_sign_in"
             android:textStyle="bold"
@@ -100,6 +105,7 @@
             app:layout_constraintTop_toBottomOf="@id/edit_text_password" />
 
         <TextView
+            android:id="@+id/forgot_password"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/forgot_password"
@@ -122,6 +128,7 @@
             app:layout_constraintTop_toBottomOf="@id/checkbox_keep_logged" />
 
         <TextView
+            android:layout_marginTop="16dp"
             android:id="@+id/text_view_not_a_member"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
